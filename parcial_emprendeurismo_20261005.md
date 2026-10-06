@@ -38,8 +38,8 @@
 
 > **Respuesta correcta:** **a**  
 > **Justificación resumida:**  
-> 1. Ahorro generado: $\$500.000 \times 60\% = \$300.000\text{ USD}$  
-> 2. Captura de valor (30%): $\$300.000 \times 30\% = \mathbf{\$90.000\text{ USD}}$.
+> * Ahorro anual generado: $500.000 × 60% = $300.000 USD  
+> * Captura de valor (30%): $300.000 × 30% = **$90.000 USD**
 
 ---
 
@@ -146,9 +146,9 @@
 
 > **Respuesta correcta:** **a**  
 > **Justificación resumida:**  
-> * $\text{VA}_1 = \frac{60.000}{1,10} \approx 54.545,45\text{ USD}$  
-> * $\text{VA}_2 = \frac{60.000}{(1,10)^2} = \frac{60.000}{1,21} \approx 49.586,78\text{ USD}$  
-> * $\text{VAN} = -100.000 + 54.545,45 + 49.586,78 = \mathbf{+\$4.132,23\text{ USD}}$.
+> * VA₁ = 60.000 / 1,10 ≈ 54.545,45 USD  
+> * VA₂ = 60.000 / (1,10)² = 60.000 / 1,21 ≈ 49.586,78 USD  
+> * VAN = -100.000 + 54.545,45 + 49.586,78 = **+$4.132,23 USD**
 
 ---
 
@@ -161,4 +161,6 @@
 * d. Aumenta significativamente debido al aumento de los costos variables.
 
 > **Respuesta correcta:** **b**  
-> **Justificación resumida:** El punto de equilibrio en unidades es $\frac{\text{Costos Fijos}}{\text{Precio} - \text{Costo Variable Unitario}}$. Si el precio y el costo variable suben en la misma cantidad monetaria absoluta ($+\Delta$), el margen de contribución unitario no varía y el punto de equilibrio permanece inalterado.
+> **Justificación resumida:**  
+> * Fórmula: `Q_PE = Costos Fijos / (Precio - Costo Variable Unitario)`  
+> * Al aumentar tanto el precio como el costo variable en la misma cuantía monetaria absoluta (+Δ), la diferencia `(P + Δ) - (CVu + Δ) = P - CVu` permanece constante. Como los costos fijos no cambian, el punto de equilibrio en unidades se mantiene idéntico.
