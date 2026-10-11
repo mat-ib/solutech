@@ -1,26 +1,15 @@
-# SoluTech — Encuesta breve de validación
-## Versión recomendada de 12 preguntas
+# SoluTech — Encuesta de validación del problema y mercado
+## Versión 4 — 15 preguntas
 
-> **Objetivo del equipo:** validar el problema antes de validar la solución.
+> **Estado:** actualización de la versión anterior.
 >
-> Esta encuesta busca responder, de forma simple:
+> **Objetivo:** validar el problema, caracterizar el segmento y obtener información útil para definir mercado objetivo, adopción, CUPID, pricing y prueba piloto.
 >
-> - si el problema existe;
-> - con qué frecuencia ocurre;
-> - qué impacto genera;
-> - cómo lo resuelven hoy;
-> - dónde se pierde visibilidad;
-> - qué valor tendría resolverlo;
-> - qué barreras existen;
-> - quién interviene en la decisión;
-> - quién podría pagar;
-> - si existe disposición real a probar una solución.
->
-> **Duración estimada:** 4 minutos.
+> **Duración estimada:** 5 minutos.
 >
 > **Formato recomendado:** Google Forms o Microsoft Forms.
 >
-> **Criterio de diseño:** lenguaje natural, preguntas concretas y sin vender la solución antes de entender el problema.
+> **Principio de diseño:** entender primero el problema y el contexto del cliente; presentar la solución recién después.
 
 ---
 
@@ -34,11 +23,13 @@ Estamos investigando cómo las empresas del sector textil controlan la producci�
 
 La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: nos interesa conocer cómo trabajan realmente hoy.
 
-**Tiempo estimado: 4 minutos.**
+**Tiempo estimado: 5 minutos.**
 
 ---
 
-# 1. ¿Cuál es tu función principal dentro de la empresa?
+# Sección 1 — Perfil de la empresa y del respondente
+
+## 1. ¿Cuál es tu función principal dentro de la empresa?
 
 **Tipo:** una sola opción.
 
@@ -55,7 +46,7 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# 2. ¿Cuál de estas opciones describe mejor a tu empresa?
+## 2. ¿Cuál de estas opciones describe mejor a tu empresa?
 
 **Tipo:** una sola opción.
 
@@ -68,7 +59,76 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# 3. ¿En qué etapas trabajan habitualmente con otras empresas o establecimientos?
+## 3. ¿Dónde se encuentra el principal establecimiento desde el que realizan o coordinan esta actividad?
+
+**Tipo:** una sola opción.
+
+- Ciudad Autónoma de Buenos Aires (CABA).
+- Gran Buenos Aires (GBA).
+- Resto de la Provincia de Buenos Aires.
+- Catamarca.
+- Chaco.
+- Chubut.
+- Córdoba.
+- Corrientes.
+- Entre Ríos.
+- Formosa.
+- Jujuy.
+- La Pampa.
+- La Rioja.
+- Mendoza.
+- Misiones.
+- Neuquén.
+- Río Negro.
+- Salta.
+- San Juan.
+- San Luis.
+- Santa Cruz.
+- Santa Fe.
+- Santiago del Estero.
+- Tierra del Fuego.
+- Tucumán.
+- La actividad se encuentra distribuida en varias provincias.
+- Otra situación: __________.
+
+### Campo opcional
+
+**Localidad / partido:** ______________________
+
+---
+
+## 4. Aproximadamente, ¿cuántas prendas producen, procesan o mueven por mes?
+
+**Tipo:** una sola opción.
+
+- Menos de 1.000.
+- Entre 1.000 y 5.000.
+- Entre 5.001 y 20.000.
+- Entre 20.001 y 50.000.
+- Más de 50.000.
+- Varía mucho según la temporada.
+- No sé.
+- Prefiero no responder.
+
+> **Nota interna:** los rangos son una hipótesis inicial y conviene validarlos con alguien que conozca en profundidad la escala operativa del sector textil antes de publicar el formulario definitivo.
+
+---
+
+## 5. ¿Con cuántos talleres, lavaderos u otros establecimientos externos trabajan habitualmente?
+
+**Tipo:** una sola opción.
+
+- Ninguno.
+- 1.
+- 2 o 3.
+- 4 o 5.
+- Más de 5.
+- Varía mucho según la temporada o el trabajo.
+- No sé.
+
+---
+
+## 6. ¿En qué etapas trabajan habitualmente con otras empresas o establecimientos?
 
 **Tipo:** selección múltiple.
 
@@ -83,7 +143,9 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# 4. Cuando entran o salen prendas de una etapa o establecimiento, ¿cómo controlan hoy las cantidades y los movimientos?
+# Sección 2 — Cómo trabajan hoy y qué problema existe
+
+## 7. Cuando entran o salen prendas de una etapa o establecimiento, ¿cómo controlan hoy las cantidades y los movimientos?
 
 **Tipo:** selección múltiple.
 
@@ -100,7 +162,7 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# 5. En los últimos tres meses, ¿con qué frecuencia encontraron diferencias entre la cantidad de prendas que esperaban y la que finalmente enviaron, recibieron o tenían disponible?
+## 8. En los últimos tres meses, ¿con qué frecuencia encontraron diferencias entre la cantidad de prendas que esperaban y la que finalmente enviaron, recibieron o tenían disponible?
 
 **Tipo:** una sola opción.
 
@@ -114,7 +176,7 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# 6. Cuando aparece una diferencia o faltante, ¿qué problemas suele generar?
+## 9. Cuando aparece una diferencia o faltante, ¿qué problemas suele generar?
 
 **Tipo:** selección múltiple.
 
@@ -132,7 +194,7 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# 7. ¿En qué parte del proceso les resulta más difícil saber qué pasó con las prendas o las cantidades?
+## 10. ¿En qué parte del proceso les resulta más difícil saber qué pasó con las prendas o las cantidades?
 
 **Tipo:** una sola opción.
 
@@ -149,17 +211,19 @@ La encuesta tiene fines académicos. No hay respuestas correctas o incorrectas: 
 
 ---
 
-# Antes de continuar
+# Sección 3 — Evaluación de una posible solución
+
+## Antes de continuar
 
 Estamos evaluando una propuesta llamada **SoluTech**.
 
 La idea es contar con una plataforma que permita registrar movimientos de prendas entre distintas etapas, comparar cantidades enviadas y recibidas y consultar el historial de lo ocurrido.
 
-La identificación podría hacerse por lote y, cuando tenga sentido, también por prenda.
+La identificación podría realizarse por lote y, cuando resulte conveniente, también por prenda.
 
 ---
 
-# 8. Si una herramienta de este tipo funcionara bien, ¿qué te resultaría más útil?
+## 11. Si una herramienta de este tipo funcionara bien, ¿qué te resultaría más útil?
 
 **Tipo:** una sola opción.
 
@@ -175,7 +239,7 @@ La identificación podría hacerse por lote y, cuando tenga sentido, también po
 
 ---
 
-# 9. ¿Cuál creés que sería el principal obstáculo para incorporar una herramienta así?
+## 12. ¿Cuál creés que sería el principal obstáculo para incorporar una herramienta así?
 
 **Tipo:** una sola opción.
 
@@ -193,7 +257,9 @@ La identificación podría hacerse por lote y, cuando tenga sentido, también po
 
 ---
 
-# 10. Si la empresa evaluara incorporar una solución como esta, ¿quiénes participarían normalmente de la decisión?
+# Sección 4 — Decisión de compra y disposición a pagar
+
+## 13. Si la empresa evaluara incorporar una solución como esta, ¿quiénes participarían normalmente de la decisión?
 
 **Tipo:** selección múltiple.
 
@@ -210,7 +276,7 @@ La identificación podría hacerse por lote y, cuando tenga sentido, también po
 
 ---
 
-# 11. Pensando en una herramienta compartida entre una marca y sus talleres o proveedores, ¿quién creés que debería asumir principalmente el costo?
+## 14. Pensando en una herramienta compartida entre una marca y sus talleres o proveedores, ¿quién creés que debería asumir principalmente el costo?
 
 **Tipo:** una sola opción.
 
@@ -222,9 +288,10 @@ La identificación podría hacerse por lote y, cuando tenga sentido, también po
 - No sé.
 - Otra opción: __________.
 
-### Pregunta opcional dentro del mismo bloque
+### Campo opcional de presupuesto
 
-**Si además participás en decisiones de compra o presupuesto:**  
+**Si participás en decisiones de compra o presupuesto:**
+
 Si la plataforma demostrara utilidad, ¿qué presupuesto mensual considerarías razonable únicamente por el uso del software?
 
 **Respuesta abierta:** ______________________
@@ -237,7 +304,9 @@ También podés responder:
 
 ---
 
-# 12. ¿Qué disposición tendría tu empresa a probar una solución como esta en una parte acotada de su proceso?
+# Sección 5 — Señal de interés real
+
+## 15. ¿Qué disposición tendría tu empresa a probar una solución como esta en una parte acotada de su proceso?
 
 **Tipo:** una sola opción.
 
@@ -249,7 +318,9 @@ También podés responder:
 - No estaríamos interesados.
 - No participo de esa decisión.
 
-### Contacto opcional
+---
+
+# Contacto opcional
 
 Si te interesa participar en una breve entrevista o conocer una futura prueba piloto, podés dejarnos un contacto.
 
@@ -272,143 +343,181 @@ Tus respuestas nos ayudan a entender mejor cómo funciona hoy el control de pren
 # Anexo interno para el equipo
 ## No mostrar esta parte al encuestado
 
-## Qué busca validar cada pregunta
+# 1. Qué busca validar cada pregunta
 
-| Pregunta | Qué buscamos aprender |
-|---|---|
-| 1 | Quién responde y desde qué rol vive el problema |
-| 2 | Tipo de empresa / segmento |
-| 3 | Nivel y ubicación de la tercerización |
-| 4 | Cómo resuelven hoy el problema |
-| 5 | Frecuencia real del problema |
-| 6 | Impacto operativo y económico |
-| 7 | Punto del proceso donde se pierde visibilidad |
-| 8 | Qué beneficio es realmente valorado |
-| 9 | Barreras de adopción |
-| 10 | Quién participa en la decisión de compra |
-| 11 | Hipótesis de pagador + primera señal de disposición a pagar |
-| 12 | Señal de interés real mediante intención de prueba |
-
----
-
-# Por qué esta versión tiene 12 preguntas
-
-La encuesta no intenta medir todo.
-
-Se priorizaron solamente las variables necesarias para responder las hipótesis centrales del proyecto:
-
-1. **¿Existe el problema?**
-2. **¿Ocurre lo suficiente como para importar?**
-3. **¿Qué consecuencias genera?**
-4. **¿Cómo se resuelve hoy?**
-5. **¿En qué punto del proceso aparece la mayor dificultad?**
-6. **¿Qué resultado tendría valor para el cliente?**
-7. **¿Qué impediría adoptar una solución?**
-8. **¿Quién participa de la compra?**
-9. **¿Quién probablemente debería pagar?**
-10. **¿Existe disposición real a probar la propuesta?**
-
-El objetivo es evitar dos extremos:
-
-- una encuesta demasiado corta que solo pregunte si “gusta” SoluTech;
-- una encuesta demasiado larga que parezca una investigación académica y reduzca la cantidad o calidad de respuestas.
+| Pregunta | Variable principal | Para qué nos sirve |
+|---|---|---|
+| 1 | Rol del respondente | Interpretar quién vive, usa o decide |
+| 2 | Tipo de empresa | Segmentación |
+| 3 | Ubicación | Cobertura y segmentación geográfica |
+| 4 | Volumen mensual | Escala operativa / posible filtro del SAM |
+| 5 | Cantidad de terceros | Complejidad del circuito |
+| 6 | Etapas tercerizadas | Compatibilidad con el problema de SoluTech |
+| 7 | Método actual | Alternativas y competencia real |
+| 8 | Frecuencia del problema | Validación del pain |
+| 9 | Consecuencias | Intensidad e impacto del pain |
+| 10 | Punto crítico | Dónde se pierde visibilidad |
+| 11 | Beneficio valorado | Propuesta de valor / priorización |
+| 12 | Barreras | Riesgos de adopción |
+| 13 | Participantes de decisión | CUPID |
+| 14 | Hipótesis de pagador + WTP | Modelo de negocio / pricing |
+| 15 | Intención de prueba | Señal de interés y potencial piloto |
 
 ---
 
-# Qué decidimos dejar afuera por ahora
+# 2. Cómo utilizar geografía para TAM / SAM / SOM
 
-No se incluyen preguntas específicas sobre:
+La ubicación geográfica **no define por sí sola** TAM, SAM y SOM.
 
-- autenticidad de prendas;
-- falsificaciones;
-- devoluciones de e-commerce;
-- consumidor final;
-- NFC;
-- certificados digitales;
-- blockchain o criptografía;
-- eliminación total de errores;
-- promesas de “cero faltantes”;
-- velocidades específicas de lectura RFID.
+Se propone utilizarla como una variable de segmentación.
 
-Estas posibilidades pueden evaluarse en una etapa posterior.
+## TAM
 
-La encuesta actual se concentra en la propuesta original:
+El TAM puede tomar como universo inicial:
 
-**movimientos entre etapas → cantidades → diferencias → trazabilidad → conciliación → adopción.**
+**Argentina**
+
+y luego identificar, mediante fuentes sectoriales externas, cuántas empresas presentan características compatibles con la propuesta.
+
+La encuesta no debe utilizarse para extrapolar directamente el número total de empresas del país.
 
 ---
 
-# Reglas para analizar las respuestas
+## SAM
 
-## 1. No mirar solamente el porcentaje de interesados
+El SAM deberá surgir de aplicar filtros al TAM.
 
-Una respuesta positiva a la pregunta 12 no valida por sí sola el negocio.
+Ejemplos de filtros que esta encuesta ayuda a investigar:
 
-Debe analizarse junto con:
+- cobertura geográfica inicial;
+- tipo de empresa;
+- existencia de tercerización;
+- volumen operativo;
+- cantidad de establecimientos externos;
+- frecuencia e impacto del problema;
+- condiciones de adopción.
 
-- frecuencia del problema;
-- impacto;
-- método actual;
-- barreras;
-- rol del respondente;
-- participación en la decisión.
-
----
-
-## 2. Separar respuestas por tipo de empresa
-
-No mezclar automáticamente:
-
-- marcas;
-- talleres;
-- fabricantes;
-- prestadores.
-
-Un mismo problema puede tener distinto valor para cada actor.
+Una hipótesis posible para la primera etapa podría priorizar **AMBA**, pero la definición final debe justificarse también por la capacidad real de implementación y soporte.
 
 ---
 
-## 3. Separar quién usa de quién decide
+## SOM
 
-Una persona puede sufrir el problema todos los días y no tener autoridad para contratar una solución.
+El SOM no se define simplemente usando una zona geográfica más pequeña.
 
-Eso no invalida su respuesta: simplemente responde a una parte diferente del proceso de compra.
+Representa los clientes del SAM que SoluTech puede captar y mantener.
 
----
+Para estimarlo deberán combinarse variables como:
 
-## 4. No interpretar intención como venta
+- cantidad de empresas alcanzables;
+- contactos comerciales realizados;
+- acceso a reuniones o demostraciones;
+- tasa de conversión;
+- tiempo de venta;
+- capacidad de implementar nuevos clientes;
+- posibles bajas.
 
-“Estaría dispuesto a probarlo” significa interés.
+Por lo tanto:
 
-No significa:
-
-- que pagaría;
-- que pueda decidir;
-- que exista presupuesto;
-- que vaya a contratar.
-
----
-
-## 5. Buscar contradicciones
-
-Las respuestas más útiles pueden ser las que contradigan nuestras hipótesis.
-
-Ejemplos:
-
-- empresas que casi nunca tienen diferencias;
-- talleres que consideran que debería pagar la marca;
-- marcas que no ven valor en el seguimiento en tiempo real;
-- empresas que ya tienen un sistema que resuelve bien el problema;
-- empresas interesadas, pero que consideran inviable lograr que terceros registren información.
-
-Estas respuestas no son “malas”.
-
-Son aprendizaje.
-
----
-
-# Criterio final de los founders
-
-> **No queremos demostrar que SoluTech tiene razón.**
+> **Geografía ayuda a definir a quién podemos atender.**
 >
-> **Queremos descubrir si el problema merece ser resuelto, para quién, en qué parte del proceso y bajo qué condiciones.**
+> **La capacidad comercial y operativa ayuda a definir cuánto realmente podemos captar.**
+
+---
+
+# 3. Precaución con los resultados de la encuesta
+
+Aunque se obtengan muchas respuestas, la muestra no debe asumirse automáticamente como representativa de toda la industria textil argentina.
+
+Ejemplo:
+
+Si el 25% de los encuestados declara tener diferencias frecuentes, eso **no significa automáticamente** que el 25% de todas las empresas textiles argentinas tenga ese problema.
+
+La encuesta sirve principalmente para:
+
+- validar hipótesis;
+- identificar patrones;
+- comparar segmentos;
+- encontrar pains relevantes;
+- detectar barreras;
+- definir criterios para el mercado objetivo;
+- orientar entrevistas y pilotos.
+
+El tamaño total del mercado deberá complementarse con **fuentes sectoriales externas**.
+
+---
+
+# 4. Cruces de datos que conviene analizar
+
+Una vez obtenidas las respuestas, no analizar únicamente cada pregunta por separado.
+
+Algunos cruces especialmente útiles serán:
+
+### Geografía × frecuencia del problema
+
+Permite observar si la problemática aparece de forma similar o diferente según la zona.
+
+### Tipo de empresa × frecuencia del problema
+
+Permite comparar marcas, talleres y otros prestadores.
+
+### Volumen mensual × frecuencia / impacto
+
+Ayuda a investigar si el problema aumenta o cambia según la escala operativa.
+
+### Cantidad de terceros × frecuencia / impacto
+
+Puede revelar si una mayor fragmentación del circuito incrementa la dificultad de control.
+
+### Método actual × frecuencia del problema
+
+Permite comparar empresas que utilizan procesos manuales con aquellas que ya cuentan con sistemas.
+
+### Rol del respondente × beneficio valorado
+
+Permite conocer si operaciones, dirección, depósito o sistemas valoran aspectos diferentes.
+
+### Tipo de empresa × quién debería pagar
+
+Ayuda directamente a resolver la hipótesis **marca vs. taller**.
+
+### Frecuencia + impacto × disposición a probar
+
+Esta combinación es especialmente importante.
+
+Una empresa que:
+
+- tiene el problema;
+- lo sufre frecuentemente;
+- reconoce consecuencias;
+- y está dispuesta a probar una solución
+
+constituye una señal mucho más fuerte que una persona que simplemente responde que “le gusta la idea”.
+
+---
+
+# 5. Qué no debe inferirse automáticamente
+
+La encuesta no permite afirmar por sí sola:
+
+- el tamaño exacto del TAM;
+- el tamaño exacto del SAM;
+- el SOM futuro;
+- que todas las empresas necesiten SoluTech;
+- que RFID sea necesariamente la mejor tecnología;
+- que una respuesta positiva implique una venta;
+- que intención de prueba equivalga a disposición a pagar;
+- que la marca sea necesariamente quien pague;
+- que el taller sea necesariamente quien pague.
+
+Estas decisiones deberán surgir de la combinación de:
+
+**encuestas + entrevistas + datos sectoriales + pruebas piloto + supuestos comerciales respaldados.**
+
+---
+
+# 6. Criterio final para los founders
+
+> **No buscamos que la encuesta confirme que nuestra solución es buena.**
+>
+> **Buscamos descubrir si existe un problema suficientemente importante, para qué tipo de empresa, en qué contexto, quién lo sufre, quién decide y bajo qué condiciones una solución podría convertirse en un negocio viable.**
